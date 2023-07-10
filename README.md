@@ -1,6 +1,6 @@
 # Welcome
 Hello, I'm Sage, I'm a 19yo programmer from Ohio.
-You can contact me through discord at `sage4424` or, if you prefer, email at sage.codes@email.com.
+You can contact me through discord at `sage4244` or, if you prefer, email at sage.codes@email.com.
 My main languages are `C`, `Python`, and `Assembler`, but I also quite enjoy esoterics like `Whitespace`, `Brainf*ck`, `LOLCODE`, and `Befunge`.
 
 ### Personal Opinion-based Statements
