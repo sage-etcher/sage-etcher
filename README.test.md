@@ -7,7 +7,7 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core icon" width=40 height=40></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite icon" width=40 height=40></a>
 <a href="https://www.opengl.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl icon" width=40 height=40></a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="./icons/file_type_assembly_icon_130739.svg" alt="assembler icon" width=40 height=40></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="./icons/assebly_generic_icon_132578.svg" alt="assembler icon" width=40 height=40></a>
 <a href="https://www.python.org/downloads/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python icon" width=40 height=40></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash icon" width=40 height=40></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html five icon" width=40 height=40></a>
