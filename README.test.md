@@ -1,4 +1,5 @@
 
+![Discord tag Sage#4244](https://dcbadge.vercel.app/api/shield/883018834573934603?style=flat)
 
 ### Tech Stack
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" width=40 height=40></a>
