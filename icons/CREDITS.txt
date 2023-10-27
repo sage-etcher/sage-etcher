@@ -4,6 +4,7 @@ https://creativecommons.org/licenses/by/4.0/
 Thanks to John Gardner
 assembly_generic_icon_132578.svg
 https://icon-icons.com/icon/Assembly-Generic/132578
+assembly_generic_icon_modified.svg - changed fill color to cool grey
 
 assembly_intel_icon_132576.svg
 https://icon-icons.com/icon/Assembly-Intel/132568
