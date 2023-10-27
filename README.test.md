@@ -13,7 +13,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css three icon" width=40 height=40></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript icon" width=40 height=40></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript icon" width=40 height=40></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery icon" width=40 height=40></a>
 <a href="https://bulma.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma icon" width=40 height=40></a>
 <a href="https://inkscape.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscapes icon" width=40 height=40></a>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage-etcher&theme=react&hide=Dockerfile&layout=compact">
 
 
