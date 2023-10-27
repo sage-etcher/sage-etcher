@@ -1,6 +1,7 @@
-Hi, I'm Sage, I'm an Independent Developer. I have, what is going on to be, 4 years of experience in the software development industry. I love tinkering with vintage computers and also do a bit of music and art on the side.
-For any buissness inquerries, feel free to contact me at <sage.message@email.com>.
-For less professional inquerries, and general contact, you can find me on discord
+Hi, I'm Sage, I'm an Independent Developer. I have- what is going on to be- 4 years of experience in the software development industry. I love tinkering with vintage computers; I also do a bit of music and art on the side.
+
+For any business inqueries, feel free to contact me at <sage.message@email.com>.  
+Alternatively, as a general contact, you can find me on discord  
 
 ![Discord tag Sage#4244](https://dcbadge.vercel.app/api/shield/883018834573934603?style=flat)
 
