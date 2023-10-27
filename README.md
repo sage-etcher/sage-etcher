@@ -1,24 +1,28 @@
-# Welcome
-Hello, I'm Sage, I'm a 19yo programmer from Ohio.
-You can contact me through discord at `sage4244` or, if you prefer, email at sage.codes@email.com.
-My main languages are `C`, `Python`, and `Assembler`, but I also quite enjoy esoterics like `Whitespace`, `Brainf*ck`, `LOLCODE`, and `Befunge`.
+Hi, I'm Sage, I'm an Independent Developer. I have, what is going on to be, 4 years of experience in the software development industry. I love tinkering with vintage computers and also do a bit of music and art on the side.
+For any buissness inquerries, feel free to contact me at <sage.message@email.com>.
+For less professional inquerries, and general contact, you can find me on discord
 
-### Personal Opinion-based Statements
-* Programming Paradigms Opinions
-  * I am impartial to OOP Programming
-  * Functional Programming has its place, but its definately overhyped
-  * Procedural Programming rules superior
-* C vs C++
-  * C lets you shoot yourself in the foot, C++ blows the whole foot off
-  * I hate C++ Templates with a passion, void* based solutions are superior
-  * Benefits of C++, supports OOP, Classes, Greater library support
-  * Benefits of C, wider system compatibility, puts greater emphasis towards understanding high-level datatypes, *verry* minutely faster, smaller executable size, less abstractions, simple and easy to learn.
-* Other Things
-  * Programmer Socks <3
-  * Stack-based languages rule
-  * I collect vintage 80's computers
- 
-### Other Things
-I am currently trying to get used to working with Git and overall Version Control, as I haven't consistantly used them in the past, but would like to get a better understanding of them. 
+![Discord tag Sage#4244](https://dcbadge.vercel.app/api/shield/883018834573934603?style=flat)
 
-Currently I'm working on writing my Whitespace Interpreter. After the current project is in a stable state, I'm hoping to start writing a Library of generic functions and (void* based) datatypes for my C projects. Datatypes that I would like to implement include: Hashmap, LinkedList, and a GenericType;
+### Tech Stack
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" width=40 height=40></a>
+<a href="https://en.wikipedia.org/wiki/C++" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C plus plus icon" width=40 height=40></a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C icon" width=40 height=40></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core icon" width=40 height=40></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite icon" width=40 height=40></a>
+<a href="https://www.opengl.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="opengl icon" width=40 height=40></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="./icons/assembly_generic_icon_modified.svg" alt="assembler icon" width=40 height=40></a>
+<a href="https://www.python.org/downloads/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python icon" width=40 height=40></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash icon" width=40 height=40></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html five icon" width=40 height=40></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css three icon" width=40 height=40></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript icon" width=40 height=40></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript icon" width=40 height=40></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery icon" width=40 height=40></a>
+<a href="https://bulma.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="bulma icon" width=40 height=40></a>
+<a href="https://inkscape.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="inkscapes icon" width=40 height=40></a>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage-etcher&theme=react&hide=Dockerfile&layout=compact">
+
+
