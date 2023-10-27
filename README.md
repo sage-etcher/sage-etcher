@@ -3,7 +3,7 @@ Hi, I'm Sage, I'm an Independent Developer. I have- what is going on to be- 4 ye
 For any business inqueries, feel free to contact me at <sage.message@email.com>.  
 Alternatively, as a general contact, you can find me on discord  
 
-![Discord tag Sage#4244](https://dcbadge.vercel.app/api/shield/883018834573934603?style=flat)
+[![Discord tag Sage#4244](https://dcbadge.vercel.app/api/shield/883018834573934603?style=flat)](https://discord.com/)
 
 ### Tech Stack
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" width=40 height=40></a>
