@@ -21,7 +21,7 @@ Alternatively, as a general contact, you can find me on discord
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript icon" width=40 height=40></a>
 <a href="https://jquery.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery icon" width=40 height=40></a>
 <a href="https://bulma.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" alt="Bulma icon" width=40 height=40></a>
-<a href="https://www.vim.org/" target="_blank"><img src="htpps://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim icon" width=40 height=40></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim icon" width=40 height=40></a>
 <a href="https://inkscape.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape icon" width=40 height=40></a>
 
 <!-- GitHub Stats -->
