@@ -25,6 +25,6 @@ Alternatively, as a general contact, you can find me on discord
 <a href="https://inkscape.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape icon" width=40 height=40></a>
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage-etcher&theme=react&hide=Dockerfile&layout=compact" alt="github read me stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sage-etcher&theme=catppuccin_mocha&hide=Dockerfile&layout=compact&langs_count=6" alt="github read me stats">
 
 
